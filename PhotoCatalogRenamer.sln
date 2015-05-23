@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoCatalogRenamer", "PhotoCatalogRenamer\PhotoCatalogRenamer.csproj", "{840AB1EF-7E72-4FEE-957E-218B6A7D770C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoCatalogRenamerTests", "PhotoCatalogRenamerTests\PhotoCatalogRenamerTests.csproj", "{16CC99DD-6D98-42E6-AB78-0F3650C50518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{840AB1EF-7E72-4FEE-957E-218B6A7D770C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840AB1EF-7E72-4FEE-957E-218B6A7D770C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840AB1EF-7E72-4FEE-957E-218B6A7D770C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840AB1EF-7E72-4FEE-957E-218B6A7D770C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16CC99DD-6D98-42E6-AB78-0F3650C50518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CC99DD-6D98-42E6-AB78-0F3650C50518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CC99DD-6D98-42E6-AB78-0F3650C50518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CC99DD-6D98-42E6-AB78-0F3650C50518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
